@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../css-makets"
+		},
+		{
+			"path": "../../test verst"
+		},
+		{
+			"path": "../../test"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "test verst"
+	}
+}
