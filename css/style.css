@@ -49,11 +49,17 @@ div {
     z-index: 1000;
 }
 
-/* @media (max-width: 530px) {
+@media (max-width: 530px) {
     .header {
         padding-top: 35px;
     }
-} */
+}
+
+@media (max-height: 550px) {
+    .header {
+        padding-top: 35px;
+    }
+}
 
 .header_inner {
     display: flex;
